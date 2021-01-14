@@ -1,0 +1,2 @@
+# renovate-spring-gradle-sample
+
