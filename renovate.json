@@ -1,5 +1,8 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "gradle-lite": {
+    "enabled": false
+  },
   "extends": [
     "config:base"
   ]
