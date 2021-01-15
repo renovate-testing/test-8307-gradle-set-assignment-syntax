@@ -4,10 +4,10 @@
     "enabled": false
   },
   "gradle-lite": {
-    "enabled": false
+    "enabled": true
   },
   "gradle": {
-    "enabled": true
+    "enabled": false
   },
   "extends": [
     "config:base"
